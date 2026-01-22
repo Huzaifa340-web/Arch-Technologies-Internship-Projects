@@ -1,4 +1,5 @@
 📌 ARCH TECHNOLOGIES
+
 Machine Learning Internship – Task Submission
 
 Intern Name: Huzaifa Baig
@@ -28,6 +29,7 @@ Model evaluation
 Model deployment through GUI/Web applications
 
 ✅ Task 1: Email Spam Classification
+
 📧 Project Description
 
 This task focuses on building a Machine Learning–based Email/SMS Spam Classifier using a labeled text dataset.
@@ -131,6 +133,7 @@ Clear result display:
 The GUI uses the same trained model and preprocessing pipeline to ensure accurate predictions.
 
 📁 Task 1 Project Structure
+
 SpamClassifierGUI/
 │
 ├── spam_gui.py
@@ -140,6 +143,7 @@ SpamClassifierGUI/
 ├── README.md
 
 ▶️ How to Run Task 1
+
 pip install pandas scikit-learn nltk
 python spam_gui.py
 
@@ -212,6 +216,7 @@ Display uploaded image
 Show predicted digit instantly
 
 📁 Task 2 Project Structure
+
 Task 2 Mnist Digit Recognition/
 │
 ├── app.py
@@ -222,6 +227,7 @@ Task 2 Mnist Digit Recognition/
 ├── README.md
 
 ▶️ How to Run Task 2
+
 pip install streamlit tensorflow scikit-learn numpy pillow opencv-python
 streamlit run app.py
 
