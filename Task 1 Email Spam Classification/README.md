@@ -172,7 +172,9 @@ SpamClassifierGUI/
 ├── README.md            # Project documentation
 
 ▶️ How to Run the Project
+
 1️⃣ Install Required Libraries
+
 pip install pandas scikit-learn nltk
 
 2️⃣ Train the Model
@@ -226,4 +228,5 @@ This project fulfills all the requirements of ARCH TECHNOLOGIES Machine Learning
 Huzaifa Baig
 Machine Learning Task Submission
 ARCH TECHNOLOGIES
+
 
